@@ -13,7 +13,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./test_output_examples/test_images_output/full-line-labeled-whiteCarLaneSwitch.jpg "Grayscale"
+[image1]: ./test_images_output/full-line-labeled-whiteCarLaneSwitch.jpg "Grayscale"
 
 ---
 
@@ -36,7 +36,7 @@ segment pertained to the left lane when its slope was determined to be non-negat
 belonged to the right lane. I solved for the x coordinates for the extrapolated line for each lane
 by requiring first that the y coordinates must be the bottom and middle of the image.
 
-![alt text][image1]
+![][image1]
 
 
 ### 2. Identify potential shortcomings with your current pipeline
